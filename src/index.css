@@ -1,0 +1,9 @@
+body {
+	background-color: #eff3f8;
+	margin: 0;
+
+	/* prevent scrolling on the body directly */
+	overflow: hidden;
+	position: relative;
+	height: 100vh;
+}
